@@ -1,0 +1,14 @@
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\bin\Debug\WApp.exe.config
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\bin\Debug\WApp.exe
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\bin\Debug\WApp.pdb
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.Form1.resources
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.FormularioPila2.resources
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.Properties.Resources.resources
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.exe
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.pdb
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\bin\Debug\CApp.dll
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\bin\Debug\CApp.pdb
+C:\Users\ferna\source\repos\TDAPila2\WApp\WApp\obj\Debug\WApp.csproj.CopyComplete
